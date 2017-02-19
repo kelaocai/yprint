@@ -1,0 +1,14 @@
+{
+    "name": "baocai/yprint",
+    "description": "Elind Printer SDK",
+    "type": "sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kelaocai",
+            "email": "kelaocai@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
